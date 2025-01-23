@@ -1,0 +1,7 @@
+[Xfce Panel Plugin]
+Name=Tab Manager
+Comment=Modern tab manager with indicator bars
+Icon=preferences-system
+X-XFCE-Module=tabmanager
+X-XFCE-Internal=false
+X-XFCE-API=2.0 
